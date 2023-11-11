@@ -1,0 +1,97 @@
+.information {
+    background-color: #1E1E1E;
+    width: 100%;
+    height: 41px;
+}
+.textinformation1 {
+    float: left;
+    width: 27px;
+    height: 16px;
+    color: #FFF;
+    color: color(display-p3 1 1 1);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 6%;
+
+}
+.textinformation2 {
+    float: left;
+    width: 65px;
+    height: 16px;
+    color: #FFF;
+    color: color(display-p3 1 1 1);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 34px;
+
+
+}
+.textinformation3 {
+    float: left;
+    width: 149px;
+    height: 16px;
+    color: #FFF;
+    color: color(display-p3 1 1 1);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 137px;
+
+}
+.textinformation4 {
+    float: right;
+    width: 104px;
+    height: 16px;
+    color: #FFF;
+    color: color(display-p3 1 1 1);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-right: 11%;
+}
+.title {
+    background: #464646;
+    width: 100%;
+    height:  270px;
+}
+.logo {
+    width: 143px;
+    height: 149px;
+    margin-left: 6%;
+    float: left;
+}
+.search {
+    border-radius: 5px;
+    background: #FFF;
+    margin-left: 73px;
+    margin-top: 4%;
+    float: left;
+    width: 38%;
+    height: 26%;
+}
+.searchsring {
+    width: 100%;
+    height: 100%;
+    color: #ABA7A7;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1px;
+    padding-left: 9px;
+}
