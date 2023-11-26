@@ -171,13 +171,52 @@ button::first-letter {
     margin-left: auto;
     margin-right: auto;
 }
-.divpicture1{
+.picture1{
     width: 100%;
-    height: 1920px;
+    height: 50%;
 }
-.picture1 {
-    padding: auto;
+.categories {
+    background: color(display-p3 1 1 1);
+    height: 1539px;
+} 
+.divcategory {
+    margin-top: 2.5%;
 }
-.products {
-
+.category {
+    margin-left: 10%;
+    color: color(display-p3 0 0 0);
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0.9px;
 }
+.baitforfish {
+    margin-left: 9%;
+    margin-top: 5%;
+    float: left;
+    background: color(display-p3 0.925 0.925 0.925);
+    width: 26%;
+    height: 20%;
+}
+.linkbaitforfish {
+    display: block;
+    width: 522px;
+    height: 327px;
+    
+} 
+.textbaitforfish {
+    margin-top: 20px;
+    margin-left: 10%;
+    color: #000;
+    color: color(display-p3 0 0 0);
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0.75px;
+} 
